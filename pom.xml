@@ -1,0 +1,60 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>uni-passau</groupId>
+  <artifactId>XTE</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>Explainable Text Entailment</name>
+  
+  <dependencies> 	
+		<dependency>
+    		<groupId>com.googlecode.json-simple</groupId>
+    		<artifactId>json-simple</artifactId>
+    		<version>1.1.1</version>
+		</dependency>
+		
+		<dependency>
+    		<groupId>org.apache.httpcomponents</groupId>
+    		<artifactId>httpclient</artifactId>
+			<version>4.5.6</version>
+		</dependency>
+		
+		<dependency>
+    		<groupId>edu.mit</groupId>
+    		<artifactId>jwi</artifactId>
+    		<version>2.2.3</version>
+		</dependency>
+		 
+        <dependency>
+            <groupId>edu.stanford.nlp</groupId>
+            <artifactId>stanford-corenlp</artifactId>
+            <version>3.9.1</version>
+        </dependency>
+        <dependency>
+            <groupId>edu.stanford.nlp</groupId>
+            <artifactId>stanford-corenlp</artifactId>
+            <version>3.9.1</version>
+            <classifier>models</classifier>
+        </dependency>
+		
+		<dependency>
+    		<groupId>org.apache.jena</groupId>
+    		<artifactId>jena</artifactId>
+    		<version>3.8.0</version>
+    		<type>pom</type>
+		</dependency>
+		<dependency>
+    		<groupId>org.apache.jena</groupId>
+    		<artifactId>jena-fuseki-server</artifactId>
+    		<version>3.8.0</version>
+		</dependency>
+		
+		<dependency>
+    		<groupId>at.unisalzburg.dbresearch.apted</groupId>
+    		<artifactId>apted</artifactId>
+    		<version>1.0</version>
+    		<scope>system</scope>
+    		<systemPath>C:/Users/Vivian/APTED/apted-master/build/libs/apted.jar</systemPath>
+		</dependency>
+	</dependencies>
+
+</project>

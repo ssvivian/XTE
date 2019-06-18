@@ -1,0 +1,9 @@
+#Resources paths
+wnpath = C:\Program Files (x86)\WordNet\3.0\dict
+wngraph = C:\XTE\Graphs\WN_DSR_LC_model_XML.rdf
+wktgraph = C:\XTE\Graphs\WKT_DSR_LC_model_XML.rdf
+wkpgraph = C:\XTE\Graphs\WKP_DSR_LC_model_XML.rdf
+wbtgraph = C:\XTE\Graphs\WBT_DSR_LC_model_XML.rdf
+
+#TED learned threshold
+tedthreshold = 705.0

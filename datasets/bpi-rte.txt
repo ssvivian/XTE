@@ -1,0 +1,999 @@
+1.1 T: A council worker cleans up after Tuesday's violence in Budapest.
+1.1 H: There were attacks in Budapest on Tuesday.
+1.1 A: YES
+
+1.4 T: A council worker cleans up after Tuesday's violence in Budapest.
+1.4 H: There was damage in Budapest.
+1.4 A: YES
+
+1.100 T: A council worker cleans up after Tuesday's violence in Budapest.
+1.100 H: A council worker takes a bath.
+1.100 A: NO
+
+1.101 T: A council worker cleans up after Tuesday's violence in Budapest.
+1.101 H: Tuesday caused violence in Budapest.
+1.101 A: NO
+
+2.3 T: North Korea launched a test missile Wednesday.
+2.3 H: A missile was tested.
+2.3 A: YES
+
+2.4 T: North Korea launched a test missile Wednesday.
+2.4 H: The missile was launched on Wednesday.
+2.4 A: YES
+
+2.100 T: North Korea launched a test missile Wednesday.
+2.100 H: A test missile named "Wednesday" was launched.
+2.100 A: NO
+
+2.101 T: North Korea launched a test missile Wednesday.
+2.101 H: North Korea fired an armed nuclear missile.
+2.101 A: NO
+
+3.3 T: Hanssen, who sold FBI secrets to the Russians, could face the death penalty.
+3.3 H: The FBI had secrets.
+3.3 A: YES
+
+3.6 T: Hanssen, who sold FBI secrets to the Russians, could face the death penalty.
+3.6 H: Hanssen received money from the Russians.
+3.6 A: YES
+
+3.8 T: Hanssen, who sold FBI secrets to the Russians, could face the death penalty.
+3.8 H: Hanssen might be executed.
+3.8 A: YES
+
+3.100 T: Hanssen, who sold FBI secrets to the Russians, could face the death penalty.
+3.100 H: The Russians could face the death penalty.
+3.100 A: NO
+
+3.101 T: Hanssen, who sold FBI secrets to the Russians, could face the death penalty.
+3.101 H: The Russians bought secrets from the FBI.
+3.101 A: NO
+
+4.2 T: Iran purchased plans for building a nuclear reactor from A.Q. Khan.
+4.2 H: Khan possessed some plans.
+4.2 A: YES
+
+4.4 T: Iran purchased plans for building a nuclear reactor from A.Q. Khan.
+4.4 H: Khan sold some plans to Iran.
+4.4 A: YES
+
+4.7 T: Iran purchased plans for building a nuclear reactor from A.Q. Khan.
+4.7 H: Iran has some plans for building a nuclear reactor.
+4.7 A: YES
+
+4.100 T: Iran purchased plans for building a nuclear reactor from A.Q. Khan.
+4.100 H: Khan built a nuclear reactor.
+4.100 A: NO
+
+4.101 T: Iran purchased plans for building a nuclear reactor from A.Q. Khan.
+4.101 H: Iran did not buy plans for a nuclear reactor.
+4.101 A: NO
+
+4.102 T: Iran purchased plans for building a nuclear reactor from A.Q. Khan.
+4.102 H: A nuclear reactor was purchased from Khan.
+4.102 A: NO
+
+5.2 T: Egypt has suspended production of BW.
+5.2 H: Egypt has ended production of BW.
+5.2 A: YES
+
+5.3 T: Egypt has suspended production of BW.
+5.3 H: Egypt produced BW.
+5.3 A: YES
+
+5.100 T: Egypt has suspended production of BW.
+5.100 H: Egypt is producing BW.
+5.100 A: NO
+
+5.101 T: Egypt has suspended production of BW.
+5.101 H: BW have been suspended in the air.
+5.101 A: NO
+
+6.2 T: Armed men kidnapped an Associated Press photographer on Tuesday as he was walking in Gaza City.
+6.2 H: The photographer was walking in Gaza City.
+6.2 A: YES
+
+6.3 T: Armed men kidnapped an Associated Press photographer on Tuesday as he was walking in Gaza City.
+6.3 H: There was a group of men who possessed guns.
+6.3 A: YES
+
+6.100 T: Armed men kidnapped an Associated Press photographer on Tuesday as he was walking in Gaza City.
+6.100 H: Armed men were outside Gaza City.
+6.100 A: NO
+
+6.101 T: Armed men kidnapped an Associated Press photographer on Tuesday as he was walking in Gaza City.
+6.101 H: Armed men work for the Associated Press.
+6.101 A: NO
+
+7.1 T: Sony is doing a huge retail rollout of their new Playstation.
+7.1 H: Sony is rolling out their new Playstation.
+7.1 A: YES
+
+7.100 T: Sony is doing a huge retail rollout of their new Playstation.
+7.100 H: A Playstation is rolling on wheels.
+7.100 A: NO
+
+7.101 T: Sony is doing a huge retail rollout of their new Playstation.
+7.101 H: Sony bought a Playstation.
+7.101 A: NO
+
+8.3 T: Former Enron chief executive Jeffrey Skilling was sentenced yesterday to more than 24 years in prison for leading a financial fraud that destroyed the company and came to symbolise a dark era for corporate America.
+8.3 H: Skilling was the chief executive of Enron.
+8.3 A: YES
+
+8.10 T: Former Enron chief executive Jeffrey Skilling was sentenced yesterday to more than 24 years in prison for leading a financial fraud that destroyed the company and came to symbolise a dark era for corporate America.
+8.10 H: Skilling was convicted of a fraud.
+8.10 A: YES
+
+8.100 T: Former Enron chief executive Jeffrey Skilling was sentenced yesterday to more than 24 years in prison for leading a financial fraud that destroyed the company and came to symbolise a dark era for corporate America.
+8.100 H: Jeffrey Skilling is the current chief executive of Enron.
+8.100 A: NO
+
+8.101 T: Former Enron chief executive Jeffrey Skilling was sentenced yesterday to more than 24 years in prison for leading a financial fraud that destroyed the company and came to symbolise a dark era for corporate America.
+8.101 H: Jeffrey Skilling's sentence was 24 or fewer years in prison.
+8.101 A: NO
+
+9.3 T: Apple says the new Intel dual-core chips improve performance by up to 39 percent over the previous single-core variety. 
+9.3 H: Dual-core chips make the performance better.
+9.3 A: YES
+
+9.4 T: Apple says the new Intel dual-core chips improve performance by up to 39 percent over the previous single-core variety. 
+9.4 H: Dual-core chips perform better.
+9.4 A: YES
+
+9.100 T: Apple says the new Intel dual-core chips improve performance by up to 39 percent over the previous single-core variety. 
+9.100 H: The previous single-core variety of chips are better than the new Intel dual-core chips.
+9.100 A: NO
+
+9.101 T: Apple says the new Intel dual-core chips improve performance by up to 39 percent over the previous single-core variety. 
+9.101 H: The new Intel dual-core chips have degraded performance.
+9.101 A: NO
+
+10.3 T: New mum Madonna finally broke her silence today over the row surrounding her adoption of African baby David Banda. 
+10.3 H: David Banda is a baby.
+10.3 A: YES
+
+10.4 T: New mum Madonna finally broke her silence today over the row surrounding her adoption of African baby David Banda. 
+10.4 H: David Banda is from Africa.
+10.4 A: YES
+
+10.100 T: New mum Madonna finally broke her silence today over the row surrounding her adoption of African baby David Banda. 
+10.100 H: Madonna broke her African baby David Banda.
+10.100 A: NO
+
+10.101 T: New mum Madonna finally broke her silence today over the row surrounding her adoption of African baby David Banda. 
+10.101 H: Madonna was silent today.
+10.101 A: NO
+
+10.102 T: New mum Madonna finally broke her silence today over the row surrounding her adoption of African baby David Banda. 
+10.102 H: Madonna rowed around David Banda.
+10.102 A: NO
+
+11.1 T: The UN Security Council demands that North Korea stop making nuclear weapons.
+11.1 H: North Korea is making nuclear weapons.
+11.1 A: YES
+
+11.2 T: The UN Security Council demands that North Korea stop making nuclear weapons.
+11.2 H: The Security Council wants North Korea to stop making nuclear weapons.
+11.2 A: YES
+
+11.3 T: The UN Security Council demands that North Korea stop making nuclear weapons.
+11.3 H: The Council has made a request to North Korea.
+11.3 A: YES
+
+11.5 T: The UN Security Council demands that North Korea stop making nuclear weapons.
+11.5 H: The request is that North Korea stop making nuclear weapons.
+11.5 A: YES
+
+11.6 T: The UN Security Council demands that North Korea stop making nuclear weapons.
+11.6 H: A forceful request was made by the UN Security Council.
+11.6 A: YES
+
+11.100 T: The UN Security Council demands that North Korea stop making nuclear weapons.
+11.100 H: The UN Security Council has stopped making nuclear weapons.
+11.100 A: NO
+
+11.101 T: The UN Security Council demands that North Korea stop making nuclear weapons.
+11.101 H: North Korea stop has demanded nuclear weapons.
+11.101 A: NO
+
+11.102 T: The UN Security Council demands that North Korea stop making nuclear weapons.
+11.102 H: The UN Security Council is asking for North Korea.
+11.102 A: NO
+
+12.6 T: Disney will remove its characters from packages of junk food.
+12.6 H: Characters are on junk food packages.
+12.6 A: YES
+
+12.100 T: Disney will remove its characters from packages of junk food.
+12.100 H: Disney will package junk food.
+12.100 A: NO
+
+13.2 T: Eating vegetables may keep the brain young. Eating vegetables may slow the mental decline associated with old age.
+13.2 H: Aging is sometimes connected with mental decline.
+13.2 A: YES
+
+13.3 T: Eating vegetables may keep the brain young. Eating vegetables may slow the mental decline associated with old age.
+13.3 H: Growing old is sometimes connected with a decline of the mind.
+13.3 A: YES
+
+13.4 T: Eating vegetables may keep the brain young. Eating vegetables may slow the mental decline associated with old age.
+13.4 H: Vegetables may keep the brain young.
+13.4 A: YES
+
+13.100 T: Eating vegetables may keep the brain young. Eating vegetables may slow the mental decline associated with old age.
+13.100 H: Eating vegetables may help the mental decline associated with old age.
+13.100 A: NO
+
+13.101 T: Eating vegetables may keep the brain young. Eating vegetables may slow the mental decline associated with old age.
+13.101 H: The brain is eating vegetables.
+13.101 A: NO
+
+13.102 T: Eating vegetables may keep the brain young. Eating vegetables may slow the mental decline associated with old age.
+13.102 H: The brain is young.
+13.102 A: NO
+
+14.4 T: Britain puts curbs on immigrant labor from Bulgaria and Romania.
+14.4 H: Britain restricted workers from Bulgaria.
+14.4 A: YES
+
+14.100 T: Britain puts curbs on immigrant labor from Bulgaria and Romania.
+14.100 H: Immigrant labor is at the curb.
+14.100 A: NO
+
+14.101 T: Britain puts curbs on immigrant labor from Bulgaria and Romania.
+14.101 H: Immigrant labor is coming from Britain.
+14.101 A: NO
+
+15.2 T: Baghdad has seen a spike in violence since the summer.
+15.2 H: Baghdad has seen violence.
+15.2 A: YES
+
+15.3 T: Baghdad has seen a spike in violence since the summer.
+15.3 H: There has been violence in Baghdad.
+15.3 A: YES
+
+15.4 T: Baghdad has seen a spike in violence since the summer.
+15.4 H: The violence was caused by persons in Baghdad. 
+15.4 A: YES
+
+15.6 T: Baghdad has seen a spike in violence since the summer.
+15.6 H: Baghdad has seen an increase in violence.
+15.6 A: YES
+
+15.7 T: Baghdad has seen a spike in violence since the summer.
+15.7 H: The violence rose since the summer.
+15.7 A: YES
+
+15.10 T: Baghdad has seen a spike in violence since the summer.
+15.10 H: There was some violence since the summer.
+15.10 A: YES
+
+15.101 T: Baghdad has seen a spike in violence since the summer.
+15.101 H: There has been a sharp drop in violence in Baghdad since the summer.
+15.101 A: NO
+
+15.102 T: Baghdad has seen a spike in violence since the summer.
+15.102 H: France has seen a spike in violence. 
+15.102 A: NO
+
+16.2 T: Satomi Mitarai bled to death.
+16.2 H: Satomi Mitarai died.
+16.2 A: YES
+
+16.4 T: Satomi Mitarai bled to death.
+16.4 H: The bleeding caused Mitarai's death.
+16.4 A: YES
+
+16.6 T: Satomi Mitarai bled to death.
+16.6 H: Mitarai lost blood.
+16.6 A: YES
+
+16.100 T: Satomi Mitarai bled to death.
+16.100 H: A Satomi is a kind of Mitarai.
+16.100 A: NO
+
+16.101 T: Satomi Mitarai bled to death.
+16.101 H: Satomi Mitarai died from a virus.
+16.101 A: NO
+
+17.3 T: A Union Pacific freight train hit five people.
+17.3 H: The train was moving.
+17.3 A: YES
+
+17.4 T: A Union Pacific freight train hit five people.
+17.4 H: The train was moving along a railroad track.
+17.4 A: YES
+
+17.10 T: A Union Pacific freight train hit five people.
+17.10 H: The five people were injured.
+17.10 A: YES
+
+17.11 T: A Union Pacific freight train hit five people.
+17.11 H: The train collided with a group of people.
+17.11 A: YES
+
+17.100 T: A Union Pacific freight train hit five people.
+17.100 H: A freight train was in the Pacific Ocean.
+17.100 A: NO
+
+17.101 T: A Union Pacific freight train hit five people.
+17.101 H: A freight train was transporting five people.
+17.101 A: NO
+
+17.102 T: A Union Pacific freight train hit five people.
+17.102 H: At least six people were hit by a freight train.
+17.102 A: NO
+
+18.5 T: Commercial whale hunting has been banned by the IWC.
+18.5 H: Commercial whale hunting is prohibited.
+18.5 A: YES
+
+18.100 T: Commercial whale hunting has been banned by the IWC.
+18.100 H: The IWC has been banned from commercial whale hunting.
+18.100 A: NO
+
+18.101 T: Commercial whale hunting has been banned by the IWC.
+18.101 H: Whale hunting has been banned in commercials.
+18.101 A: NO
+
+19.1 T: A Filipino hostage in Iraq was released.
+19.1 H: The hostage is a citizen of the Philippines.
+19.1 A: YES
+
+19.3 T: A Filipino hostage in Iraq was released.
+19.3 H: The captors let the hostage go free.
+19.3 A: YES
+
+19.100 T: A Filipino hostage in Iraq was released.
+19.100 H: The hostage was a citizen of Iraq.
+19.100 A: NO
+
+19.101 T: A Filipino hostage in Iraq was released.
+19.101 H: The Philippines released a hostage.
+19.101 A: NO
+
+20.2 T: The National Philharmonic orchestra draws large crowds.
+20.2 H: Large crowds were drawn to listen to the orchestra.
+20.2 A: YES
+
+20.100 T: The National Philharmonic orchestra draws large crowds.
+20.100 H: The orchestra draws large crowds with a pencil.
+20.100 A: NO
+
+20.101 T: The National Philharmonic orchestra draws large crowds.
+20.101 H: The National Philharmonic orchestra is crowded.
+20.101 A: NO
+
+21.2 T: Japan is the world's prime consumer of whale meat.
+21.2 H: The people of Japan eat whale meat.
+21.2 A: YES
+
+21.100 T: Japan is the world's prime consumer of whale meat.
+21.100 H: Japan is consumed by whales.
+21.100 A: NO
+
+21.101 T: Japan is the world's prime consumer of whale meat.
+21.101 H: Japan produces the world's prime whale meat.
+21.101 A: NO
+
+22.3 T: Witnesses told police a gas canister exploded.
+22.3 H: People told the police that a canister of gas had exploded.
+22.3 A: YES
+
+22.100 T: Witnesses told police a gas canister exploded.
+22.100 H: The police exploded a gas canister.
+22.100 A: NO
+
+22.101 T: Witnesses told police a gas canister exploded.
+22.101 H: A gas canister was exploded by witnesses.
+22.101 A: NO
+
+23.5 T: Microsoft delays release of Windows XP update.
+23.5 H: The release of Windows XP update was late.
+23.5 A: YES
+
+23.100 T: Microsoft delays release of Windows XP update.
+23.100 H: Microsoft released a Windows XP update.
+23.100 A: NO
+
+23.101 T: Microsoft delays release of Windows XP update.
+23.101 H: Microsoft delays opening the windows.
+23.101 A: NO
+
+24.3 T: William Doyle works for an auction house in Manhattan.
+24.3 H: The auction house employs William Doyle.
+24.3 A: YES
+
+24.100 T: William Doyle works for an auction house in Manhattan.
+24.100 H: William Doyle lives in an auction house in Manhattan.
+24.100 A: NO
+
+24.101 T: William Doyle works for an auction house in Manhattan.
+24.101 H: William Doyle never goes to Manhattan.
+24.101 A: NO
+
+25.2 T: The 1984 Winter Olympic Games were held in Sarajevo.
+25.2 H: The location of the Winter Olympics in 1984 was Sarajevo.
+25.2 A: YES
+
+25.4 T: The 1984 Winter Olympic Games were held in Sarajevo.
+25.4 H: Sarajevo hosted the Winter Olympics in 1984.
+25.4 A: YES
+
+25.100 T: The 1984 Winter Olympic Games were held in Sarajevo.
+25.100 H: The 1984 Winter Olympic Games were held all year.
+25.100 A: NO
+
+25.101 T: The 1984 Winter Olympic Games were held in Sarajevo.
+25.101 H: The 1984 Winter Olympic Games were not held in Sarajevo.
+25.101 A: NO
+
+26.4 T: The head of Dell recommitted his company to doing its best to save the planet by producing more energy-efficient products.
+26.4 H: The head of Dell promised that his company would produce more energy-efficient products.
+26.4 A: YES
+
+26.100 T: The head of Dell recommitted his company to doing its best to save the planet by producing more energy-efficient products.
+26.100 H: The head of Dell is connected to the neck of Dell.
+26.100 A: NO
+
+26.101 T: The head of Dell recommitted his company to doing its best to save the planet by producing more energy-efficient products.
+26.101 H: Dell will not produce more energy-efficient products.
+26.101 A: NO
+
+27.1 T: The Pentagon is bolstering US military presence in the Gulf.
+27.1 H: The US has military forces in the Gulf.
+27.1 A: YES
+
+27.2 T: The Pentagon is bolstering US military presence in the Gulf.
+27.2 H: The Pentagon is strengthing the US military in the Gulf.
+27.2 A: YES
+
+27.3 T: The Pentagon is bolstering US military presence in the Gulf.
+27.3 H: The Pentagon is making the US military in the Gulf stronger.
+27.3 A: YES
+
+27.100 T: The Pentagon is bolstering US military presence in the Gulf.
+27.100 H: The Pentagon is bolstering US military presence in the Gulf of Mexico.
+27.100 A: NO
+
+27.101 T: The Pentagon is bolstering US military presence in the Gulf.
+27.101 H: The Pentagon is in the Gulf.
+27.101 A: NO
+
+27.102 T: The Pentagon is bolstering US military presence in the Gulf.
+27.102 H: The US military has the presence of mind to leave the Gulf.
+27.102 A: NO
+
+28.4 T: Three patients declined further surgery.
+28.4 H: The patients did not want further surgery.
+28.4 A: YES
+
+28.5 T: Three patients declined further surgery.
+28.5 H: The patients rejected further surgery.
+28.5 A: YES
+
+28.100 T: Three patients declined further surgery.
+28.100 H: More than three patients declined further surgery.
+28.100 A: NO
+
+28.101 T: Three patients declined further surgery.
+28.101 H: Three patients are getting further surgery.
+28.101 A: NO
+
+29.2 T: Foodstuffs are being blocked from entry into Iraq.
+29.2 H: Food cannot go into Iraq.
+29.2 A: YES
+
+29.3 T: Foodstuffs are being blocked from entry into Iraq.
+29.3 H: Food cannot get into Iraq.
+29.3 A: YES
+
+29.100 T: Foodstuffs are being blocked from entry into Iraq.
+29.100 H: Foodstuffs are being put into blocks.
+29.100 A: NO
+
+29.101 T: Foodstuffs are being blocked from entry into Iraq.
+29.101 H: Foodstuffs are entering into Iraq.
+29.101 A: NO
+
+29.102 T: Foodstuffs are being blocked from entry into Iraq.
+29.102 H: Iraq is blocking foodstuff from entering Iraq.
+29.102 A: NO
+
+30.2 T: There was an explosion on Panam flight 103.
+30.2 H: An airplane was flying.
+30.2 A: YES
+
+30.4 T: There was an explosion on Panam flight 103.
+30.4 H: The airplane was damaged.
+30.4 A: YES
+
+30.100 T: There was an explosion on Panam flight 103.
+30.100 H: Panam was flying 103 airplanes.
+30.100 A: NO
+
+30.101 T: There was an explosion on Panam flight 103.
+30.101 H: Panam caused an explosion on Panam flight 103.
+30.101 A: NO
+
+31.3 T: 48 Kuwaiti jet fighters managed to escape the Iraqi invasion.
+31.3 H: 48 jet fighters flew away.
+31.3 A: YES
+
+31.100 T: 48 Kuwaiti jet fighters managed to escape the Iraqi invasion.
+31.100 H: 48 Kuwaiti jet fighters managed to escape from Iraq.
+31.100 A: NO
+
+31.101 T: 48 Kuwaiti jet fighters managed to escape the Iraqi invasion.
+31.101 H: Kuwait invaded Iraq.
+31.101 A: NO
+
+32.1 T: Allied troops have engaged Iraq's Republican Guard.
+32.1 H: The Allied soldiers have begun a military fight against the Republican Guard. 
+32.1 A: YES
+
+32.100 T: Allied troops have engaged Iraq's Republican Guard.
+32.100 H: Allied troops are engaged to Iraq's Republican Guard.
+32.100 A: NO
+
+33.3 T: The police allowed the crowd to demonstrate on nearby streets.
+33.3 H: The crowd demonstrated on the nearby streets.
+33.3 A: YES
+
+33.4 T: The police allowed the crowd to demonstrate on nearby streets.
+33.4 H: People wanted to demonstrate.
+33.4 A: YES
+
+33.100 T: The police allowed the crowd to demonstrate on nearby streets.
+33.100 H: The police demonstrated on nearby streets.
+33.100 A: NO
+
+33.101 T: The police allowed the crowd to demonstrate on nearby streets.
+33.101 H: The police crowded onto nearby streets.
+33.101 A: NO
+
+34.1 T: In Pakistan, the Taliban have forbidden women to work.
+34.1 H: The Taliban have forbidden women to have a job.
+34.1 A: YES
+
+34.2 T: In Pakistan, the Taliban have forbidden women to work.
+34.2 H: The Taliban have said that women cannot have a job.
+34.2 A: YES
+
+34.3 T: In Pakistan, the Taliban have forbidden women to work.
+34.3 H: The Taliban do not want women to work.
+34.3 A: YES
+
+34.100 T: In Pakistan, the Taliban have forbidden women to work.
+34.100 H: Women have forbidden the Taliban to work.
+34.100 A: NO
+
+34.101 T: In Pakistan, the Taliban have forbidden women to work.
+34.101 H: The Taliban are not in Pakistan.
+34.101 A: NO
+
+34.102 T: In Pakistan, the Taliban have forbidden women to work.
+34.102 H: The Taliban possess forbidden women.
+34.102 A: NO
+
+35.1 T: The Administration is trying to decide whether Saddam Hussein is hiding WMD.
+35.1 H: The people in the Administration are trying to make a decision.
+35.1 A: YES
+
+35.100 T: The Administration is trying to decide whether Saddam Hussein is hiding WMD.
+35.100 H: Saddam Hussein is hiding WMD.
+35.100 A: NO
+
+35.101 T: The Administration is trying to decide whether Saddam Hussein is hiding WMD.
+35.101 H: Saddam Hussein has been decided by the Administration.
+35.101 A: NO
+
+36.1 T: Helicopters are trying to locate people stranded without food.
+36.1 H: Helicopters are searching for people.
+36.1 A: YES
+
+36.4 T: Helicopters are trying to locate people stranded without food.
+36.4 H: The stranded people have no food.
+36.4 A: YES
+
+36.100 T: Helicopters are trying to locate people stranded without food.
+36.100 H: Helicopters are trying to locate food.
+36.100 A: NO
+
+36.101 T: Helicopters are trying to locate people stranded without food.
+36.101 H: Helicopters are trying to relocate people.
+36.101 A: NO
+
+37.1 T: MCA agreed to wait on purchasing Cineplex.
+37.1 H: The purchase of Cineplex was delayed.
+37.1 A: YES
+
+37.100 T: MCA agreed to wait on purchasing Cineplex.
+37.100 H: Cineplex is purchasing MCA.
+37.100 A: NO
+
+37.101 T: MCA agreed to wait on purchasing Cineplex.
+37.101 H: MCA is waiting to agree on purchasing Cineplex.
+37.101 A: NO
+
+38.1 T: Sandra owns a golden retriever, Harley, with whom she has won a Dog World Award.
+38.1 H: Sandra has a dog.
+38.1 A: YES
+
+38.100 T: Sandra owns a golden retriever, Harley, with whom she has won a Dog World Award.
+38.100 H: Sandra's golden retriever is made of gold.
+38.100 A: NO
+
+38.101 T: Sandra owns a golden retriever, Harley, with whom she has won a Dog World Award.
+38.101 H: Sandra owns a golden retriever and a Harley.
+38.101 A: NO
+
+39.1 T: Many cellphones have built-in digital cameras.
+39.1 H: A large number of cellphones have built-in digital cameras.
+39.1 A: YES
+
+39.3 T: Many cellphones have built-in digital cameras.
+39.3 H: Many cellphones can take pictures.
+39.3 A: YES
+
+39.4 T: Many cellphones have built-in digital cameras.
+39.4 H: Many cellphones have a lens.
+39.4 A: YES
+
+39.100 T: Many cellphones have built-in digital cameras.
+39.100 H: Many cellphones have built digital cameras.
+39.100 A: NO
+
+39.101 T: Many cellphones have built-in digital cameras.
+39.101 H: Many cellphones have been built in digital cameras.
+39.101 A: NO
+
+40.2 T: One in four cellphones sold has a camera in it.
+40.2 H: Some cellphones can take pictures.
+40.2 A: YES
+
+40.100 T: One in four cellphones sold has a camera in it.
+40.100 H: Exactly one cellphone has a camera in it.
+40.100 A: NO
+
+40.101 T: One in four cellphones sold has a camera in it.
+40.101 H: Exactly four cellphones have been sold.
+40.101 A: NO
+
+40.102 T: One in four cellphones sold has a camera in it.
+40.102 H: Four cellphones have sold a camera.
+40.102 A: NO
+
+41.1 T: Mr. Radley ordered a 16 ounce slab of slowly roasted Black Angus Prime Rib.
+41.1 H: Mr. Radley wanted the prime rib.
+41.1 A: YES
+
+41.100 T: Mr. Radley ordered a 16 ounce slab of slowly roasted Black Angus Prime Rib.
+41.100 H: Mr. Radley gave orders to a 16 ounce slab of slowly roasted Black Angus Prime Rib.
+41.100 A: NO
+
+41.101 T: Mr. Radley ordered a 16 ounce slab of slowly roasted Black Angus Prime Rib.
+41.101 H: Mr. Radley slowly roasted a Black Angus Prime Rib.
+41.101 A: NO
+
+42.1 T: Incandescent bulbs burn out sooner than LEDs.
+42.1 H: Incandescent bulbs fail before LEDs.
+42.1 A: YES
+
+42.2 T: Incandescent bulbs burn out sooner than LEDs.
+42.2 H: LEDs fail after incandescent bulbs.
+42.2 A: YES
+
+42.101 T: Incandescent bulbs burn out sooner than LEDs.
+42.101 H: Incandescent bulbs burn LEDs.
+42.101 A: NO
+
+43.1 T: A worker cleans up the streets.
+43.1 H: The streets are tidy.
+43.1 A: YES
+
+43.2 T: A worker cleans up the streets.
+43.2 H: The streets are dirty.
+43.2 A: YES
+
+43.100 T: A worker cleans up the streets.
+43.100 H: The streets go up hill.
+43.100 A: NO
+
+44.1 T: Serena Williams is a great tennis player, perhaps one of the best ever.
+44.1 H: Serena Williams is an expert tennis player.
+44.1 A: YES
+
+44.2 T: Serena Williams is a great tennis player, perhaps one of the best ever.
+44.2 H: Serena Williams plays tennis well.
+44.2 A: YES
+
+44.100 T: Serena Williams is a great tennis player, perhaps one of the best ever.
+44.100 H: Serena Williams is a great tennis court.
+44.100 A: NO
+
+44.101 T: Serena Williams is a great tennis player, perhaps one of the best ever.
+44.101 H: Serena Williams is a large tennis player.
+44.101 A: NO
+
+45.1 T: War and Peace is a very long novel.
+45.1 H: War and Peace is a book.
+45.1 A: YES
+
+45.2 T: War and Peace is a very long novel.
+45.2 H: War and Peace can be read.
+45.2 A: YES
+
+45.101 T: War and Peace is a very long novel.
+45.101 H: War is very long and novel.
+45.101 A: NO
+
+46.1 T: China provided Iran with decontamination materials.
+46.1 H: Iran received decontamination materials.
+46.1 A: YES
+
+46.2 T: China provided Iran with decontamination materials.
+46.2 H: China possessed decontamination materials.
+46.2 A: YES
+
+46.3 T: China provided Iran with decontamination materials.
+46.3 H: Iran wanted to remove contaminants.
+46.3 A: YES
+
+46.100 T: China provided Iran with decontamination materials.
+46.100 H: China was provided with decontamination materials.
+46.100 A: NO
+
+46.101 T: China provided Iran with decontamination materials.
+46.101 H: Iran is made with decontamination materials.
+46.101 A: NO
+
+47.1 T: Iran is a signatory to the Chemical Weapons Convention.
+47.1 H: Iran signed the Chemical Weapons Convention.
+47.1 A: YES
+
+47.4 T: Iran is a signatory to the Chemical Weapons Convention.
+47.4 H: The Chemical Weapons Convention is an agreement.
+47.4 A: YES
+
+47.5 T: Iran is a signatory to the Chemical Weapons Convention.
+47.5 H: The Chemical Weapons Convention is a document.
+47.5 A: YES
+
+47.100 T: Iran is a signatory to the Chemical Weapons Convention.
+47.100 H: Iran disagrees with the Chemical Weapons Convention.
+47.100 A: NO
+
+47.101 T: Iran is a signatory to the Chemical Weapons Convention.
+47.101 H: The Weapons Convention is made of a chemical.
+47.101 A: NO
+
+48.1 T: Libya has sponsored acts of terrorism.
+48.1 H: Libya supported terrorist acts.
+48.1 A: YES
+
+48.100 T: Libya has sponsored acts of terrorism.
+48.100 H: Libya has sponsored an act of a play.
+48.100 A: NO
+
+49.3 T: Mike Campbell dented his car door in an accident on Friday.
+49.3 H: Mike's car door was damaged.
+49.3 A: YES
+
+49.7 T: Mike Campbell dented his car door in an accident on Friday.
+49.7 H: Mike Campbell dented his car.
+49.7 A: YES
+
+49.8 T: Mike Campbell dented his car door in an accident on Friday.
+49.8 H: The car door has a dent.
+49.8 A: YES
+
+49.100 T: Mike Campbell dented his car door in an accident on Friday.
+49.100 H: Mike Campbell's car door caused an accident on Friday.
+49.100 A: NO
+
+49.101 T: Mike Campbell dented his car door in an accident on Friday.
+49.101 H: Mike Campbell's car was dented by a door.
+49.101 A: NO
+
+50.6 T: City workers pretended to be victims of the attack.
+50.6 H: City workers pretended to be attacked.
+50.6 A: YES
+
+50.100 T: City workers pretended to be victims of the attack.
+50.100 H: City workers were victims of the attack.
+50.100 A: NO
+
+50.101 T: City workers pretended to be victims of the attack.
+50.101 H: There was an attack on city workers.
+50.101 A: NO
+
+51.1 T: Powell travelled to Israel.
+51.1 H: Powell was in Israel.
+51.1 A: YES
+
+51.2 T: Powell travelled to Israel.
+51.2 H: Israel was a destination of Powell.
+51.2 A: YES
+
+51.100 T: Powell travelled to Israel.
+51.100 H: Israel travelled to Powell.
+51.100 A: NO
+
+52.1 T: Some students came to school by car.
+52.1 H: The car drove to the school.
+52.1 A: YES
+
+52.2 T: Some students came to school by car.
+52.2 H: The car transported the students.
+52.2 A: YES
+
+52.100 T: Some students came to school by car.
+52.100 H: Some students came to teach by a car.
+52.100 A: NO
+
+53.1 T: The technician cooled the room.
+53.1 H: The room was made cooler.
+53.1 A: YES
+
+53.100 T: The technician cooled the room.
+53.100 H: The technician was cooled by the room.
+53.100 A: NO
+
+54.1 T: The president visited Iraq in September.
+54.1 H: The president travelled to Iraq.
+54.1 A: YES
+
+54.100 T: The president visited Iraq in September.
+54.100 H: The president was in Iraq during all of September.
+54.100 A: NO
+
+55.1 T: The US troops stayed in Iraq although the war was over.
+55.1 H: The war was finished.
+55.1 A: YES
+
+55.2 T: The US troops stayed in Iraq although the war was over.
+55.2 H: The troops were in Iraq.
+55.2 A: YES
+
+55.100 T: The US troops stayed in Iraq although the war was over.
+55.100 H: The US troops left Iraq when the war was over.
+55.100 A: NO
+
+56.1 T: The administration managed to track down the perpetrators.
+56.1 H: The administration caught the perpetrators.
+56.1 A: YES
+
+56.2 T: The administration managed to track down the perpetrators.
+56.2 H: The administration found the perpetrators.
+56.2 A: YES
+
+56.3 T: The administration managed to track down the perpetrators.
+56.3 H: The perpetrators were being chased by the administration.
+56.3 A: YES
+
+56.100 T: The administration managed to track down the perpetrators.
+56.100 H: The administration managed the perpetrators.
+56.100 A: NO
+
+56.101 T: The administration managed to track down the perpetrators.
+56.101 H: The administration followed the railroad track down to the perpetrators.
+56.101 A: NO
+
+57.1 T: Many soldiers were killed in the ambush.
+57.1 H: The soldiers were attacked by surprise.
+57.1 A: YES
+
+58.3 T: The U.N. health agency is an authority on disease and health matters.
+58.3 H: The U.N. health agency is an authority on illness.
+58.3 A: YES
+
+58.100 T: The U.N. health agency is an authority on disease and health matters.
+58.100 H: The U.N. health agency has a disease.
+58.100 A: NO
+
+58.101 T: The U.N. health agency is an authority on disease and health matters.
+58.101 H: The agency is an authority on the U.N.
+58.101 A: NO
+
+59.1 T: Iran recently bought weapons-grade fissile material.
+59.1 H: Iran paid for the material.
+59.1 A: YES
+
+59.2 T: Iran recently bought weapons-grade fissile material.
+59.2 H: Iran possesses the material.
+59.2 A: YES
+
+59.3 T: Iran recently bought weapons-grade fissile material.
+59.3 H: Iran wanted the material.
+59.3 A: YES
+
+59.100 T: Iran recently bought weapons-grade fissile material.
+59.100 H: Iran recently bought weapons.
+59.100 A: NO
+
+60.2 T: The eject button on the face of the PS3 is touch sensitive.
+60.2 H: There is a switch on the PS3.
+60.2 A: YES
+
+60.3 T: The eject button on the face of the PS3 is touch sensitive.
+60.3 H: There is a button on the PS3.
+60.3 A: YES
+
+60.100 T: The eject button on the face of the PS3 is touch sensitive.
+60.100 H: The PS3 has eyes and a nose.
+60.100 A: NO
+
+60.101 T: The eject button on the face of the PS3 is touch sensitive.
+60.101 H: The button was ejected from the face of the PS3.
+60.101 A: NO
+
+61.1 T: A controversial video game called "Bully" has hit stores in Canada.
+61.1 H: A video game arrived at stores in Canada.
+61.1 A: YES
+
+61.100 T: A controversial video game called "Bully" has hit stores in Canada.
+61.100 H: A controversial video game called "Bully" has struck stores in Canada.
+61.100 A: NO
+
+61.101 T: A controversial video game called "Bully" has hit stores in Canada.
+61.101 H: A bully has hit stores in Canada.
+61.101 A: NO
+
+62.2 T: Scientists believe the tests done to search for life on Mars may have been flawed.
+62.2 H: The tests were trying to find life on Mars.
+62.2 A: YES
+
+62.100 T: Scientists believe the tests done to search for life on Mars may have been flawed.
+62.100 H: Scientists believe the tests.
+62.100 A: NO
+
+62.101 T: Scientists believe the tests done to search for life on Mars may have been flawed.
+62.101 H: Life on Mars may have been flawed.
+62.101 A: NO
+
+63.2 T: A freighter packed with fresh supplies and critical repair parts for the International Space Station successfully rocketed away from Earth today and immediately began plotting a three-day trek to the orbiting outpost.
+63.2 H: The freighter was launched by rocket.
+63.2 A: YES
+
+63.100 T: A freighter packed with fresh supplies and critical repair parts for the International Space Station successfully rocketed away from Earth today and immediately began plotting a three-day trek to the orbiting outpost.
+63.100 H: An ocean freighter was packed with fresh supplies.
+63.100 A: NO
+
+63.101 T: A freighter packed with fresh supplies and critical repair parts for the International Space Station successfully rocketed away from Earth today and immediately began plotting a three-day trek to the orbiting outpost.
+63.101 H: The International Space Station successfully rocketed away from Earth today.
+63.101 A: NO
+
+64.2 T: Skilling was wearing a security tag on his ankle when he stepped into the street to face the press.
+64.2 H: Skilling was wearing a security tag.
+64.2 A: YES
+
+64.100 T: Skilling was wearing a security tag on his ankle when he stepped into the street to face the press.
+64.100 H: A security tag stepped into the street to face the press.
+64.100 A: NO
+
+64.101 T: Skilling was wearing a security tag on his ankle when he stepped into the street to face the press.
+64.101 H: Skilling faced a full-court press.
+64.101 A: NO
+
+65.1 T: Sony apologized Tuesday for inconvenience caused by a global recall of laptop batteries.
+65.1 H: The laptop batteries were recalled.
+65.1 A: YES
+
+65.2 T: Sony apologized Tuesday for inconvenience caused by a global recall of laptop batteries.
+65.2 H: The batteries were defective.
+65.2 A: YES
+
+65.3 T: Sony apologized Tuesday for inconvenience caused by a global recall of laptop batteries.
+65.3 H: The recall caused inconvenience.
+65.3 A: YES
+
+65.100 T: Sony apologized Tuesday for inconvenience caused by a global recall of laptop batteries.
+65.100 H: Sony apologized for Tuesday.
+65.100 A: NO
+
+65.101 T: Sony apologized Tuesday for inconvenience caused by a global recall of laptop batteries.
+65.101 H: Laptop batteries were recalled to cause inconvenience.
+65.101 A: NO
