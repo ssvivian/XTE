@@ -10,4 +10,4 @@ The approach is described in the following paper:
 
 Example usage in the [Example.java](https://github.com/ssvivian/XTE/blob/master/src/test/java/entail/Example.java) class.
 
-The WordNet definition graph is available in the [graphs](https://github.com/ssvivian/XTE/tree/master/graphs) directory, remaining graphs will be published soon.
+The WordNet definition graph is available in the [graphs](https://github.com/ssvivian/XTE/tree/master/graphs) directory, the full set of graphs can be found [here](https://figshare.com/collections/Definition_Knowledge_Graphs/4675841).
